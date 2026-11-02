@@ -1,0 +1,98 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name" translatable="false">Speengriddy</string>
+    <string name="suedp_app_logo_description">App logo</string>
+
+    <!-- Common -->
+    <string name="back_icon_description">Back</string>
+    <string name="dialog_action_confirm">Yes</string>
+    <string name="dialog_action_cancel">Cancel</string>
+
+    <!-- Main menu -->
+    <string name="suedp_main_menu_tagline">Piece it together</string>
+    <string name="main_menu_play">Play</string>
+    <string name="main_menu_game_records">Records</string>
+    <string name="main_menu_about">About</string>
+    <string name="main_menu_exit">Exit</string>
+
+    <!-- Puzzle setup: choose a puzzle and a difficulty -->
+    <string name="puzzle_setup_title">Choose a puzzle</string>
+    <string name="puzzle_setup_start">Start</string>
+    <string name="puzzle_setup_best_time">Best time: %1$s</string>
+    <string name="puzzle_setup_no_record">No record yet</string>
+
+    <!-- Puzzle setup: page indicator -->
+    <string name="puzzle_position_description">Puzzle %1$d of %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+
+    <!-- Puzzle setup: list of all puzzles -->
+    <string name="puzzle_picker_title">All puzzles</string>
+    <string name="puzzle_picker_description">Show all puzzles</string>
+
+    <!-- Puzzle setup: level stepper -->
+    <string name="level_previous_description">Easier</string>
+    <string name="level_next_description">Harder</string>
+
+    <!-- Difficulty levels -->
+    <string name="easy_puzzle_level_title">Easy</string>
+    <string name="medium_puzzle_level_title">Medium</string>
+    <string name="hard_puzzle_level_title">Hard</string>
+    <string name="expert_puzzle_level_title">Expert</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+
+    <!-- Game -->
+    <string name="game_hint_description">Show hint</string>
+    <string name="game_preview_description">Puzzle preview</string>
+    <string name="game_exit_title">Exit puzzle?</string>
+    <string name="game_exit_message">Your progress on this puzzle will be lost.</string>
+    <string name="game_solved_title">Solved!</string>
+    <string name="game_solved_message">You put the whole puzzle together in %1$s.</string>
+    <string name="game_solved_new_record">New record!</string>
+    <string name="game_solved_previous_best">Previous best: %1$s</string>
+    <string name="game_solved_best">Best time: %1$s</string>
+    <string name="game_solved_label_time">Time</string>
+    <string name="game_solved_label_best">Best time</string>
+    <string name="game_solved_label_previous_best">Previous best</string>
+    <string name="game_solved_label_puzzle">Puzzle</string>
+    <string name="game_solved_label_level">Level</string>
+    <string name="game_solved_no_value" translatable="false">—</string>
+    <string name="game_solved_picture_description">The finished picture</string>
+    <string name="game_solved_play_again">Play again</string>
+    <string name="game_solved_main_menu">Main menu</string>
+
+    <!-- Game records -->
+    <string name="game_records_title">Game records</string>
+    <string name="game_records_empty">No records for this level yet</string>
+    <string name="game_records_sort_time">Time</string>
+    <string name="game_records_sort_date">Date</string>
+    <string name="game_records_sort_puzzle">Puzzle</string>
+    <!-- Record card: the first line is the puzzle and the time, e.g. "Sport Car · 1:23" -->
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzzle</string>
+    <string name="game_record_card_time_label">Time</string>
+    <string name="game_record_card_date_label">Date</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_rules_title">How to Play</string>
+    <string name="about_version_format">Version %1$s</string>
+    <string name="about_developer_label">Developer</string>
+    <string name="about_contact_label">Contact</string>
+    <string-array name="about_rules">
+        <item>Pick a picture: swipe through the puzzles or open the list of all of them.</item>
+        <item>Choose a difficulty — the harder the level, the more pieces the picture is cut into.</item>
+        <item>The pieces are shuffled. Tap one piece, then another, to swap them.</item>
+        <item>Put every piece in its place to bring the picture back. Stuck? The light bulb shows the whole picture.</item>
+        <item>Your time is saved after each puzzle — try to beat your best.</item>
+    </string-array>
+
+    <!-- Filled in by the generator from its config -->
+    <string name="suedp_company_name" translatable="false">SIMOSTUDIO96 LTD</string>
+    <string name="suedp_customer_support_link" translatable="false">https://simostudio96.digital</string>
+
+</resources>

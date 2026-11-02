@@ -1,0 +1,42 @@
+AssetBasedConstructor
+donor: PuzzleAppDonor (app.puzzle.donor)
+project: Speengriddy (simostudio96.speengriddy.hubapp)
+prefix: SUEDP
+seed: -7819985102517730346
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/background/decor -> v_pieces
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/background/motion -> v_drift
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/background/points -> v_clusters
+app/src/main/java/app/puzzle/donor/ui/composable/app_root/topbar -> v_tonal
+app/src/main/java/app/puzzle/donor/ui/composable/screen/about/card -> v_icon_leading
+app/src/main/java/app/puzzle/donor/ui/composable/screen/about/rules/header -> v_title_only
+app/src/main/java/app/puzzle/donor/ui/composable/screen/about/rules/list -> v_numbered
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/hint -> v_card
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/layout -> v_timer_below
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/actions -> v_text
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/appear -> v_pop
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/content -> v_three_columns
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/result/shell -> v_trophy
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game/swap -> v_slide
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game_records/card -> v_medal
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game_records/filter -> v_bare
+app/src/main/java/app/puzzle/donor/ui/composable/screen/game_records/filter/chip -> v_glyph
+app/src/main/java/app/puzzle/donor/ui/composable/screen/main_menu/content/buttons/secondary -> v_row
+app/src/main/java/app/puzzle/donor/ui/composable/screen/main_menu/content/header -> v_title_only
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/indicator -> v_counter
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/layout -> v_title_top
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/level_selector -> v_segmented
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/overlay -> v_lines
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/pager -> v_carousel
+app/src/main/java/app/puzzle/donor/ui/composable/screen/puzzle_setup/picker -> v_grid
+app/src/main/java/app/puzzle/donor/ui/composable/screen/splash/cover -> v_mosaic
+app/src/main/java/app/puzzle/donor/ui/composable/screen/splash/entrance -> v_snap
+app/src/main/java/app/puzzle/donor/ui/composable/screen/splash/lockup -> v_inline
+app/src/main/java/app/puzzle/donor/ui/composable/shared/button/content -> v_icon_tile
+app/src/main/java/app/puzzle/donor/ui/composable/shared/button/shell -> v_solid
+app/src/main/java/app/puzzle/donor/ui/composable/shared/modifier/press -> v_squish
+app/src/main/java/app/puzzle/donor/ui/composable/shared/pulse -> v_breath
+app/src/main/java/app/puzzle/donor/ui/composable/shared/pulse/timing -> v_lively
+app/src/main/java/app/puzzle/donor/ui/theme -> v_cp2479
+app/src/main/java/app/puzzle/donor/ui/theme/dimens -> v_balanced
+app/src/main/java/app/puzzle/donor/ui/theme/motion -> v_lively
+app/src/main/java/app/puzzle/donor/ui/theme/typography -> v_font_showdown
