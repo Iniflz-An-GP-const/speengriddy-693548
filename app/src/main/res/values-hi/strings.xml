@@ -1,0 +1,68 @@
+<resources>
+    <string name="suedp_app_logo_description">ऐप लोगो</string>
+    <string name="back_icon_description">वापस</string>
+    <string name="dialog_action_confirm">हाँ</string>
+    <string name="dialog_action_cancel">रद्द करें</string>
+    <string name="suedp_main_menu_tagline">टुकड़ों में दावत</string>
+    <string name="main_menu_play">खेलें</string>
+    <string name="main_menu_game_records">रिकॉर्ड</string>
+    <string name="main_menu_about">परिचय</string>
+    <string name="main_menu_exit">बाहर निकलें</string>
+    <string name="puzzle_setup_title">व्यंजन चुनें</string>
+    <string name="puzzle_setup_start">शुरू करें</string>
+    <string name="puzzle_setup_best_time">सर्वश्रेष्ठ समय: %1$s</string>
+    <string name="puzzle_setup_no_record">अभी कोई रिकॉर्ड नहीं</string>
+    <string name="puzzle_position_description">पहेली %1$d / %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">सभी व्यंजन</string>
+    <string name="puzzle_picker_description">सभी व्यंजन दिखाएँ</string>
+    <string name="level_previous_description">आसान</string>
+    <string name="level_next_description">कठिन</string>
+    <string name="easy_puzzle_level_title">आसान</string>
+    <string name="medium_puzzle_level_title">मध्यम</string>
+    <string name="hard_puzzle_level_title">कठिन</string>
+    <string name="expert_puzzle_level_title">विशेषज्ञ</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">संकेत दिखाएँ</string>
+    <string name="game_preview_description">पहेली पूर्वावलोकन</string>
+    <string name="game_exit_title">पहेली छोड़ें?</string>
+    <string name="game_exit_message">इस पहेली की आपकी प्रगति मिट जाएगी।</string>
+    <string name="game_solved_title">हल हो गई!</string>
+    <string name="game_solved_message">आपने पूरी पहेली %1$s में जोड़ दी।</string>
+    <string name="game_solved_new_record">नया रिकॉर्ड!</string>
+    <string name="game_solved_previous_best">पिछला सर्वश्रेष्ठ: %1$s</string>
+    <string name="game_solved_best">सर्वश्रेष्ठ समय: %1$s</string>
+    <string name="game_solved_label_time">समय</string>
+    <string name="game_solved_label_best">सर्वश्रेष्ठ समय</string>
+    <string name="game_solved_label_previous_best">पिछला सर्वश्रेष्ठ</string>
+    <string name="game_solved_label_puzzle">पहेली</string>
+    <string name="game_solved_label_level">स्तर</string>
+    <string name="game_solved_picture_description">पूरी हुई तस्वीर</string>
+    <string name="game_solved_play_again">फिर खेलें</string>
+    <string name="game_solved_main_menu">मुख्य मेन्यू</string>
+    <string name="game_records_title">खेल रिकॉर्ड</string>
+    <string name="game_records_empty">इस स्तर पर अभी कोई रिकॉर्ड नहीं</string>
+    <string name="game_records_sort_time">समय</string>
+    <string name="game_records_sort_date">तारीख</string>
+    <string name="game_records_sort_puzzle">पहेली</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">पहेली</string>
+    <string name="game_record_card_time_label">समय</string>
+    <string name="game_record_card_date_label">तारीख</string>
+    <string name="about_title">परिचय</string>
+    <string name="about_rules_title">कैसे खेलें</string>
+    <string name="about_version_format">संस्करण %1$s</string>
+    <string name="about_developer_label">डेवलपर</string>
+    <string name="about_contact_label">संपर्क</string>
+    <string-array name="about_rules">
+        <item>खाने की तस्वीर चुनें: व्यंजनों पर स्वाइप करें या पूरी सूची खोलें।</item>
+        <item>कठिनाई चुनें — स्तर जितना कठिन होगा, तस्वीर उतने अधिक टुकड़ों में कटेगी।</item>
+        <item>टुकड़े मिला दिए जाते हैं। उन्हें बदलने के लिए पहले एक, फिर दूसरा टुकड़ा टैप करें।</item>
+        <item>तस्वीर वापस बनाने के लिए हर टुकड़े को सही जगह रखें। अटक गए? बल्ब पूरी तस्वीर दिखाता है।</item>
+        <item>हर पहेली के बाद आपका समय सहेजा जाता है — अपना सर्वश्रेष्ठ समय हराने की कोशिश करें।</item>
+    </string-array>
+</resources>

@@ -10,14 +10,14 @@
     <string name="dialog_action_cancel">Cancel</string>
 
     <!-- Main menu -->
-    <string name="suedp_main_menu_tagline">Piece it together</string>
+    <string name="suedp_main_menu_tagline">A feast in pieces</string>
     <string name="main_menu_play">Play</string>
     <string name="main_menu_game_records">Records</string>
     <string name="main_menu_about">About</string>
     <string name="main_menu_exit">Exit</string>
 
     <!-- Puzzle setup: choose a puzzle and a difficulty -->
-    <string name="puzzle_setup_title">Choose a puzzle</string>
+    <string name="puzzle_setup_title">Choose a dish</string>
     <string name="puzzle_setup_start">Start</string>
     <string name="puzzle_setup_best_time">Best time: %1$s</string>
     <string name="puzzle_setup_no_record">No record yet</string>
@@ -27,8 +27,8 @@
     <string name="puzzle_counter_total">/ %1$d</string>
 
     <!-- Puzzle setup: list of all puzzles -->
-    <string name="puzzle_picker_title">All puzzles</string>
-    <string name="puzzle_picker_description">Show all puzzles</string>
+    <string name="puzzle_picker_title">All dishes</string>
+    <string name="puzzle_picker_description">Show all dishes</string>
 
     <!-- Puzzle setup: level stepper -->
     <string name="level_previous_description">Easier</string>
@@ -84,7 +84,7 @@
     <string name="about_developer_label">Developer</string>
     <string name="about_contact_label">Contact</string>
     <string-array name="about_rules">
-        <item>Pick a picture: swipe through the puzzles or open the list of all of them.</item>
+        <item>Pick a food picture: swipe through the dishes or open the list of all of them.</item>
         <item>Choose a difficulty — the harder the level, the more pieces the picture is cut into.</item>
         <item>The pieces are shuffled. Tap one piece, then another, to swap them.</item>
         <item>Put every piece in its place to bring the picture back. Stuck? The light bulb shows the whole picture.</item>

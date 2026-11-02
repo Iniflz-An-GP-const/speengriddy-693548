@@ -1,0 +1,68 @@
+<resources>
+    <string name="suedp_app_logo_description">App-Logo</string>
+    <string name="back_icon_description">Zurück</string>
+    <string name="dialog_action_confirm">Ja</string>
+    <string name="dialog_action_cancel">Abbrechen</string>
+    <string name="suedp_main_menu_tagline">Ein Fest in Teilen</string>
+    <string name="main_menu_play">Spielen</string>
+    <string name="main_menu_game_records">Rekorde</string>
+    <string name="main_menu_about">Info</string>
+    <string name="main_menu_exit">Beenden</string>
+    <string name="puzzle_setup_title">Gericht wählen</string>
+    <string name="puzzle_setup_start">Start</string>
+    <string name="puzzle_setup_best_time">Bestzeit: %1$s</string>
+    <string name="puzzle_setup_no_record">Noch kein Rekord</string>
+    <string name="puzzle_position_description">Puzzle %1$d von %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Alle Gerichte</string>
+    <string name="puzzle_picker_description">Alle Gerichte zeigen</string>
+    <string name="level_previous_description">Leichter</string>
+    <string name="level_next_description">Schwieriger</string>
+    <string name="easy_puzzle_level_title">Leicht</string>
+    <string name="medium_puzzle_level_title">Mittel</string>
+    <string name="hard_puzzle_level_title">Schwer</string>
+    <string name="expert_puzzle_level_title">Experte</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Hinweis zeigen</string>
+    <string name="game_preview_description">Puzzle-Vorschau</string>
+    <string name="game_exit_title">Puzzle beenden?</string>
+    <string name="game_exit_message">Dein Fortschritt bei diesem Puzzle geht verloren.</string>
+    <string name="game_solved_title">Gelöst!</string>
+    <string name="game_solved_message">Du hast das ganze Puzzle in %1$s zusammengesetzt.</string>
+    <string name="game_solved_new_record">Neuer Rekord!</string>
+    <string name="game_solved_previous_best">Vorherige Bestzeit: %1$s</string>
+    <string name="game_solved_best">Bestzeit: %1$s</string>
+    <string name="game_solved_label_time">Zeit</string>
+    <string name="game_solved_label_best">Bestzeit</string>
+    <string name="game_solved_label_previous_best">Vorherige Bestzeit</string>
+    <string name="game_solved_label_puzzle">Puzzle</string>
+    <string name="game_solved_label_level">Stufe</string>
+    <string name="game_solved_picture_description">Das fertige Bild</string>
+    <string name="game_solved_play_again">Noch einmal</string>
+    <string name="game_solved_main_menu">Hauptmenü</string>
+    <string name="game_records_title">Spielrekorde</string>
+    <string name="game_records_empty">Noch keine Rekorde für diese Stufe</string>
+    <string name="game_records_sort_time">Zeit</string>
+    <string name="game_records_sort_date">Datum</string>
+    <string name="game_records_sort_puzzle">Puzzle</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzzle</string>
+    <string name="game_record_card_time_label">Zeit</string>
+    <string name="game_record_card_date_label">Datum</string>
+    <string name="about_title">Info</string>
+    <string name="about_rules_title">Spielanleitung</string>
+    <string name="about_version_format">Version %1$s</string>
+    <string name="about_developer_label">Entwickler</string>
+    <string name="about_contact_label">Kontakt</string>
+    <string-array name="about_rules">
+        <item>Wähle ein Essensbild: Wische durch die Gerichte oder öffne die Liste mit allen.</item>
+        <item>Wähle eine Schwierigkeit — je schwieriger die Stufe, desto mehr Teile hat das Bild.</item>
+        <item>Die Teile werden gemischt. Tippe erst auf ein Teil und dann auf ein anderes, um sie zu tauschen.</item>
+        <item>Setze jedes Teil an seinen Platz, um das Bild wiederherzustellen. Du kommst nicht weiter? Die Glühbirne zeigt das ganze Bild.</item>
+        <item>Deine Zeit wird nach jedem Puzzle gespeichert — versuche, deine Bestzeit zu schlagen.</item>
+    </string-array>
+</resources>

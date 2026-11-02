@@ -1,0 +1,68 @@
+<resources>
+    <string name="suedp_app_logo_description">Logótipo da aplicação</string>
+    <string name="back_icon_description">Voltar</string>
+    <string name="dialog_action_confirm">Sim</string>
+    <string name="dialog_action_cancel">Cancelar</string>
+    <string name="suedp_main_menu_tagline">Um banquete em peças</string>
+    <string name="main_menu_play">Jogar</string>
+    <string name="main_menu_game_records">Recordes</string>
+    <string name="main_menu_about">Sobre</string>
+    <string name="main_menu_exit">Sair</string>
+    <string name="puzzle_setup_title">Escolha um prato</string>
+    <string name="puzzle_setup_start">Começar</string>
+    <string name="puzzle_setup_best_time">Melhor tempo: %1$s</string>
+    <string name="puzzle_setup_no_record">Ainda sem recorde</string>
+    <string name="puzzle_position_description">Puzzle %1$d de %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Todos os pratos</string>
+    <string name="puzzle_picker_description">Mostrar todos os pratos</string>
+    <string name="level_previous_description">Mais fácil</string>
+    <string name="level_next_description">Mais difícil</string>
+    <string name="easy_puzzle_level_title">Fácil</string>
+    <string name="medium_puzzle_level_title">Médio</string>
+    <string name="hard_puzzle_level_title">Difícil</string>
+    <string name="expert_puzzle_level_title">Especialista</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Mostrar dica</string>
+    <string name="game_preview_description">Prévia do puzzle</string>
+    <string name="game_exit_title">Sair do puzzle?</string>
+    <string name="game_exit_message">O seu progresso neste puzzle será perdido.</string>
+    <string name="game_solved_title">Resolvido!</string>
+    <string name="game_solved_message">Montou o puzzle inteiro em %1$s.</string>
+    <string name="game_solved_new_record">Novo recorde!</string>
+    <string name="game_solved_previous_best">Melhor anterior: %1$s</string>
+    <string name="game_solved_best">Melhor tempo: %1$s</string>
+    <string name="game_solved_label_time">Tempo</string>
+    <string name="game_solved_label_best">Melhor tempo</string>
+    <string name="game_solved_label_previous_best">Melhor anterior</string>
+    <string name="game_solved_label_puzzle">Puzzle</string>
+    <string name="game_solved_label_level">Nível</string>
+    <string name="game_solved_picture_description">A imagem concluída</string>
+    <string name="game_solved_play_again">Jogar novamente</string>
+    <string name="game_solved_main_menu">Menu principal</string>
+    <string name="game_records_title">Recordes do jogo</string>
+    <string name="game_records_empty">Ainda não há recordes neste nível</string>
+    <string name="game_records_sort_time">Tempo</string>
+    <string name="game_records_sort_date">Data</string>
+    <string name="game_records_sort_puzzle">Puzzle</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzzle</string>
+    <string name="game_record_card_time_label">Tempo</string>
+    <string name="game_record_card_date_label">Data</string>
+    <string name="about_title">Sobre</string>
+    <string name="about_rules_title">Como jogar</string>
+    <string name="about_version_format">Versão %1$s</string>
+    <string name="about_developer_label">Programador</string>
+    <string name="about_contact_label">Contacto</string>
+    <string-array name="about_rules">
+        <item>Escolha uma foto de comida: percorra os pratos ou abra a lista completa.</item>
+        <item>Escolha uma dificuldade — quanto mais difícil o nível, mais peças terá a imagem.</item>
+        <item>As peças são baralhadas. Toque numa peça e depois noutra para as trocar.</item>
+        <item>Coloque cada peça no lugar para recuperar a imagem. Sem saída? A lâmpada mostra a imagem completa.</item>
+        <item>O seu tempo é guardado após cada puzzle — tente bater o seu melhor.</item>
+    </string-array>
+</resources>

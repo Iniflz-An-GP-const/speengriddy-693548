@@ -1,0 +1,68 @@
+<resources>
+    <string name="suedp_app_logo_description">شعار التطبيق</string>
+    <string name="back_icon_description">رجوع</string>
+    <string name="dialog_action_confirm">نعم</string>
+    <string name="dialog_action_cancel">إلغاء</string>
+    <string name="suedp_main_menu_tagline">وليمة من القطع</string>
+    <string name="main_menu_play">العب</string>
+    <string name="main_menu_game_records">الأرقام القياسية</string>
+    <string name="main_menu_about">حول</string>
+    <string name="main_menu_exit">خروج</string>
+    <string name="puzzle_setup_title">اختر طبقًا</string>
+    <string name="puzzle_setup_start">ابدأ</string>
+    <string name="puzzle_setup_best_time">أفضل وقت: \u200E%1$s\u200E</string>
+    <string name="puzzle_setup_no_record">لا رقم قياسي بعد</string>
+    <string name="puzzle_position_description">اللغز \u200E%1$d من %2$d\u200E</string>
+    <string name="puzzle_counter_total">\u200E/ %1$d\u200E</string>
+    <string name="puzzle_picker_title">كل الأطباق</string>
+    <string name="puzzle_picker_description">عرض كل الأطباق</string>
+    <string name="level_previous_description">أسهل</string>
+    <string name="level_next_description">أصعب</string>
+    <string name="easy_puzzle_level_title">سهل</string>
+    <string name="medium_puzzle_level_title">متوسط</string>
+    <string name="hard_puzzle_level_title">صعب</string>
+    <string name="expert_puzzle_level_title">خبير</string>
+    <string name="easy_puzzle_level_grid">\u200E3x3\u200E</string>
+    <string name="medium_puzzle_level_grid">\u200E4x4\u200E</string>
+    <string name="hard_puzzle_level_grid">\u200E5x5\u200E</string>
+    <string name="expert_puzzle_level_grid">\u200E6x6\u200E</string>
+    <string name="game_hint_description">عرض التلميح</string>
+    <string name="game_preview_description">معاينة اللغز</string>
+    <string name="game_exit_title">الخروج من اللغز؟</string>
+    <string name="game_exit_message">سيضيع تقدمك في هذا اللغز.</string>
+    <string name="game_solved_title">تم الحل!</string>
+    <string name="game_solved_message">جمعت اللغز بالكامل خلال \u200E%1$s\u200E.</string>
+    <string name="game_solved_new_record">رقم قياسي جديد!</string>
+    <string name="game_solved_previous_best">الأفضل سابقًا: \u200E%1$s\u200E</string>
+    <string name="game_solved_best">أفضل وقت: \u200E%1$s\u200E</string>
+    <string name="game_solved_label_time">الوقت</string>
+    <string name="game_solved_label_best">أفضل وقت</string>
+    <string name="game_solved_label_previous_best">الأفضل سابقًا</string>
+    <string name="game_solved_label_puzzle">اللغز</string>
+    <string name="game_solved_label_level">المستوى</string>
+    <string name="game_solved_picture_description">الصورة المكتملة</string>
+    <string name="game_solved_play_again">العب مجددًا</string>
+    <string name="game_solved_main_menu">القائمة الرئيسية</string>
+    <string name="game_records_title">أرقام اللعبة</string>
+    <string name="game_records_empty">لا أرقام لهذا المستوى بعد</string>
+    <string name="game_records_sort_time">الوقت</string>
+    <string name="game_records_sort_date">التاريخ</string>
+    <string name="game_records_sort_puzzle">اللغز</string>
+    <string name="game_record_card_score_format">%1$s · \u200E%2$s\u200E</string>
+    <string name="game_record_card_rank_format">\u200E#%1$d\u200E</string>
+    <string name="game_record_card_puzzle_label">اللغز</string>
+    <string name="game_record_card_time_label">الوقت</string>
+    <string name="game_record_card_date_label">التاريخ</string>
+    <string name="about_title">حول</string>
+    <string name="about_rules_title">طريقة اللعب</string>
+    <string name="about_version_format">الإصدار \u200E%1$s\u200E</string>
+    <string name="about_developer_label">المطور</string>
+    <string name="about_contact_label">التواصل</string>
+    <string-array name="about_rules">
+        <item>اختر صورة طعام: مرر بين الأطباق أو افتح القائمة الكاملة.</item>
+        <item>اختر الصعوبة — كلما صعب المستوى، زاد عدد قطع الصورة.</item>
+        <item>تُخلط القطع. اضغط قطعة ثم أخرى لتبديلهما.</item>
+        <item>ضع كل قطعة في مكانها لإعادة الصورة. هل توقفت؟ يعرض المصباح الصورة كاملة.</item>
+        <item>يُحفظ وقتك بعد كل لغز — حاول تحطيم أفضل وقت لك.</item>
+    </string-array>
+</resources>

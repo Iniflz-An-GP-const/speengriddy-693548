@@ -1,0 +1,68 @@
+<resources>
+    <string name="suedp_app_logo_description">Logotipo de la aplicación</string>
+    <string name="back_icon_description">Atrás</string>
+    <string name="dialog_action_confirm">Sí</string>
+    <string name="dialog_action_cancel">Cancelar</string>
+    <string name="suedp_main_menu_tagline">Un festín en piezas</string>
+    <string name="main_menu_play">Jugar</string>
+    <string name="main_menu_game_records">Récords</string>
+    <string name="main_menu_about">Acerca de</string>
+    <string name="main_menu_exit">Salir</string>
+    <string name="puzzle_setup_title">Elige un plato</string>
+    <string name="puzzle_setup_start">Empezar</string>
+    <string name="puzzle_setup_best_time">Mejor tiempo: %1$s</string>
+    <string name="puzzle_setup_no_record">Aún sin récord</string>
+    <string name="puzzle_position_description">Puzle %1$d de %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Todos los platos</string>
+    <string name="puzzle_picker_description">Mostrar todos los platos</string>
+    <string name="level_previous_description">Más fácil</string>
+    <string name="level_next_description">Más difícil</string>
+    <string name="easy_puzzle_level_title">Fácil</string>
+    <string name="medium_puzzle_level_title">Medio</string>
+    <string name="hard_puzzle_level_title">Difícil</string>
+    <string name="expert_puzzle_level_title">Experto</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Mostrar pista</string>
+    <string name="game_preview_description">Vista previa</string>
+    <string name="game_exit_title">¿Salir del puzle?</string>
+    <string name="game_exit_message">Perderás tu progreso en este puzle.</string>
+    <string name="game_solved_title">¡Resuelto!</string>
+    <string name="game_solved_message">Completaste todo el puzle en %1$s.</string>
+    <string name="game_solved_new_record">¡Nuevo récord!</string>
+    <string name="game_solved_previous_best">Mejor anterior: %1$s</string>
+    <string name="game_solved_best">Mejor tiempo: %1$s</string>
+    <string name="game_solved_label_time">Tiempo</string>
+    <string name="game_solved_label_best">Mejor tiempo</string>
+    <string name="game_solved_label_previous_best">Mejor anterior</string>
+    <string name="game_solved_label_puzzle">Puzle</string>
+    <string name="game_solved_label_level">Nivel</string>
+    <string name="game_solved_picture_description">La imagen terminada</string>
+    <string name="game_solved_play_again">Jugar de nuevo</string>
+    <string name="game_solved_main_menu">Menú principal</string>
+    <string name="game_records_title">Récords de juego</string>
+    <string name="game_records_empty">Aún no hay récords para este nivel</string>
+    <string name="game_records_sort_time">Tiempo</string>
+    <string name="game_records_sort_date">Fecha</string>
+    <string name="game_records_sort_puzzle">Puzle</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzle</string>
+    <string name="game_record_card_time_label">Tiempo</string>
+    <string name="game_record_card_date_label">Fecha</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_rules_title">Cómo jugar</string>
+    <string name="about_version_format">Versión %1$s</string>
+    <string name="about_developer_label">Desarrollador</string>
+    <string name="about_contact_label">Contacto</string>
+    <string-array name="about_rules">
+        <item>Elige una foto de comida: desliza por los platos o abre la lista completa.</item>
+        <item>Elige una dificultad: cuanto más difícil sea el nivel, en más piezas se corta la imagen.</item>
+        <item>Las piezas se mezclan. Toca una y luego otra para intercambiarlas.</item>
+        <item>Coloca cada pieza en su sitio para recuperar la imagen. ¿Atascado? La bombilla muestra la imagen completa.</item>
+        <item>Tu tiempo se guarda después de cada puzle; intenta superar tu mejor marca.</item>
+    </string-array>
+</resources>

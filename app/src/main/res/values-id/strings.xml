@@ -1,0 +1,68 @@
+<resources>
+    <string name="suedp_app_logo_description">Logo aplikasi</string>
+    <string name="back_icon_description">Kembali</string>
+    <string name="dialog_action_confirm">Ya</string>
+    <string name="dialog_action_cancel">Batal</string>
+    <string name="suedp_main_menu_tagline">Hidangan dalam kepingan</string>
+    <string name="main_menu_play">Main</string>
+    <string name="main_menu_game_records">Rekor</string>
+    <string name="main_menu_about">Tentang</string>
+    <string name="main_menu_exit">Keluar</string>
+    <string name="puzzle_setup_title">Pilih hidangan</string>
+    <string name="puzzle_setup_start">Mulai</string>
+    <string name="puzzle_setup_best_time">Waktu terbaik: %1$s</string>
+    <string name="puzzle_setup_no_record">Belum ada rekor</string>
+    <string name="puzzle_position_description">Puzzle %1$d dari %2$d</string>
+    <string name="puzzle_counter_total">/ %1$d</string>
+    <string name="puzzle_picker_title">Semua hidangan</string>
+    <string name="puzzle_picker_description">Tampilkan semua hidangan</string>
+    <string name="level_previous_description">Lebih mudah</string>
+    <string name="level_next_description">Lebih sulit</string>
+    <string name="easy_puzzle_level_title">Mudah</string>
+    <string name="medium_puzzle_level_title">Sedang</string>
+    <string name="hard_puzzle_level_title">Sulit</string>
+    <string name="expert_puzzle_level_title">Ahli</string>
+    <string name="easy_puzzle_level_grid">3x3</string>
+    <string name="medium_puzzle_level_grid">4x4</string>
+    <string name="hard_puzzle_level_grid">5x5</string>
+    <string name="expert_puzzle_level_grid">6x6</string>
+    <string name="game_hint_description">Tampilkan petunjuk</string>
+    <string name="game_preview_description">Pratinjau puzzle</string>
+    <string name="game_exit_title">Keluar dari puzzle?</string>
+    <string name="game_exit_message">Progres puzzle ini akan hilang.</string>
+    <string name="game_solved_title">Selesai!</string>
+    <string name="game_solved_message">Kamu menyusun seluruh puzzle dalam %1$s.</string>
+    <string name="game_solved_new_record">Rekor baru!</string>
+    <string name="game_solved_previous_best">Terbaik sebelumnya: %1$s</string>
+    <string name="game_solved_best">Waktu terbaik: %1$s</string>
+    <string name="game_solved_label_time">Waktu</string>
+    <string name="game_solved_label_best">Waktu terbaik</string>
+    <string name="game_solved_label_previous_best">Terbaik sebelumnya</string>
+    <string name="game_solved_label_puzzle">Puzzle</string>
+    <string name="game_solved_label_level">Level</string>
+    <string name="game_solved_picture_description">Gambar yang selesai</string>
+    <string name="game_solved_play_again">Main lagi</string>
+    <string name="game_solved_main_menu">Menu utama</string>
+    <string name="game_records_title">Rekor permainan</string>
+    <string name="game_records_empty">Belum ada rekor untuk level ini</string>
+    <string name="game_records_sort_time">Waktu</string>
+    <string name="game_records_sort_date">Tanggal</string>
+    <string name="game_records_sort_puzzle">Puzzle</string>
+    <string name="game_record_card_score_format">%1$s · %2$s</string>
+    <string name="game_record_card_rank_format">#%1$d</string>
+    <string name="game_record_card_puzzle_label">Puzzle</string>
+    <string name="game_record_card_time_label">Waktu</string>
+    <string name="game_record_card_date_label">Tanggal</string>
+    <string name="about_title">Tentang</string>
+    <string name="about_rules_title">Cara Bermain</string>
+    <string name="about_version_format">Versi %1$s</string>
+    <string name="about_developer_label">Pengembang</string>
+    <string name="about_contact_label">Kontak</string>
+    <string-array name="about_rules">
+        <item>Pilih gambar makanan: geser hidangan atau buka daftar lengkapnya.</item>
+        <item>Pilih kesulitan — makin sulit levelnya, makin banyak potongan gambarnya.</item>
+        <item>Potongan diacak. Ketuk satu potongan, lalu yang lain, untuk menukarnya.</item>
+        <item>Letakkan setiap potongan di tempatnya untuk mengembalikan gambar. Buntu? Lampu menampilkan gambar lengkap.</item>
+        <item>Waktumu disimpan setelah setiap puzzle — coba kalahkan waktu terbaikmu.</item>
+    </string-array>
+</resources>
