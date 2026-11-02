@@ -1,0 +1,6 @@
+name=Speengriddy
+bundle=simostudio96.speengriddy.hubapp
+organization=SIMOSTUDIO96 LTD.
+alias=key
+pwd=JNq72JmZXEafq2TowFkL
+key-pwd=JNq72JmZXEafq2TowFkL
